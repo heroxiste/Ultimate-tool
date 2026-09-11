@@ -1,0 +1,1 @@
+pip install requests paramiko pynput pyautogui dnspython python-whois browser-cookie3
